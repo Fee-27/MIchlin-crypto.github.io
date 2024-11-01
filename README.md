@@ -15,10 +15,9 @@
         .city { background-color: rgb(13, 197, 217);}
         .nba { background-color: rgb(13, 197, 217);} 
         .tower { background-color: rgb(13,197, 217);}
-        
-    </style>
-    
-        <h1>Travel to ....</h1>
+        </style>
+        <body>
+    <h1>Travel to ....</h1>
         <p> <strong class= "toronto">Toronto!</strong> </p>
         <img src="https://cdn.kastatic.org/third_party/javascript-khansrc/live-editor/build/images/avatars/aqualine-ultimate.png">
       <p class= "what_is"> Toronto is a <em>really</em> nice place to travel to and explore, it has many beautiful things to see and fun things to do.</p>
